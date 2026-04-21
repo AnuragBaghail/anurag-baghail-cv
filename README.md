@@ -1,8 +1,6 @@
 # anurag-baghail-cv
 # Anurag Baghail
 
-# Anurag Baghail
-
 Email: anurag.baghail@gmail.com
 Phone: +91 9755-149-559
 LinkedIn: https://linkedin.com/in/anuragbaghail
@@ -57,6 +55,128 @@ Business Analyst – Eternal Web (May 2018 – Jun 2021)
 
 Product Associate – Leap Learning (Dec 2014 – Oct 2016)
 - Built English learning app (1M+ downloads)
+
+--------------------------------------------------
+
+PROJECT EXPERIENCE (DETAILED)
+
+AURIONPRO SOLUTIONS
+
+- Sampoorna Digital Sansad (Rajya Sabha Secretariat)
+  Worked on requirement gathering, process optimization, FRS, use cases, and stakeholder collaboration across government departments.
+
+--------------------------------------------------
+
+LUXSH TECHNOLOGIES
+
+- 3MS (Marketing Material Management System)
+  Centralized pharma marketing approvals.
+  Result: 70% faster approvals, 100% elimination of duplicate/expired assets.
+
+- Custom CRM (IFS ERP Integration)
+  Digitized customer onboarding and e-sign flow.
+  Result: Reduced onboarding time from 15–20 days to 2–3 days.
+
+- MCS Process Enhancement (Manufacturing)
+  Optimized QA/QC and material movement.
+  Result: 97% reduction in cost, time, and manual effort.
+
+- E-signature System (B2B2C SaaS)
+  Cloud-based document signing platform.
+  Result:
+  - Saved GBP 3000 annually
+  - Reduced signing time from 1 week to 2 days
+  - Reduced paper usage (120 trees/year)
+
+- Custom ERP Solution (Pharma Manufacturing)
+  Designed end-to-end ERP covering procurement, production, audit, and sales.
+
+--------------------------------------------------
+
+ADVANTAL TECHNOLOGIES
+
+- Japanese MNC – e-Governance Platform (B2G2C)
+  Built citizen-government interface integrated with ICCC systems.
+
+- Indian FinTech Lending App (B2C)
+  Delivered mobile + admin panel for digital lending platform.
+
+- Gulf Investment App (B2C)
+  Built global investment tracking platform with real-time insights.
+
+- Thai ERP Implementation
+  Customized open-source ERP for operational efficiency.
+
+--------------------------------------------------
+
+ETERNAL WEB
+
+- British Client – Video Training Platform
+  Cloud-based corporate training solution.
+
+- Austrian Real Estate Platform
+  Built crawler + analytics dashboards (GA, GTM).
+
+- Japanese Middleware Solution
+  Connected ecommerce platform with inventory systems.
+
+- British E-learning Ecommerce Platform
+  Enabled booking, testing, and digital learning.
+
+- Canadian Rental Platform
+  Digitized offline rental services into ecommerce.
+
+- Indian Influencer Ecommerce Platform
+  Built cloud-based ecommerce solution.
+
+- US & UK Ecommerce Stores
+  Delivered multiple Magento-based ecommerce platforms.
+
+- Dairy Marketplace Search Optimization
+  Implemented location-based filtering system.
+
+- Music Streaming MVP App
+  Built app to detect and stream currently playing songs.
+
+- Irish Scheduling System
+  Designed user registration & scheduling module.
+
+- US Healthcare Compliance Project
+  Enhanced system for HIPAA compliance.
+
+- Indian ERP Transformation
+  Built cloud-native ERP for logistics, coal, paper industries.
+
+--------------------------------------------------
+
+LEAP LEARNING
+
+- English Learning Mobile App
+  1M+ downloads, 20K reviews (4.4 rating)
+  - Product design, analytics, feature development
+  - Tools: Flurry, Google Analytics
+
+--------------------------------------------------
+
+EDUCATION
+
+Bachelor of Engineering (Electronics & Communication)
+RGPV | 2006 – 2010
+
+--------------------------------------------------
+
+CERTIFICATIONS
+
+- Oracle OCI AI Foundations (2024)
+- AWS Cloud Practitioner (Expired)
+- API Security Architect
+- CBAP Introduction
+- PMBOK7 Project Management
+- Agile Data Management
+- Data Analytics & Visualization
+- Digital Transformation
+- CAPM
+- Agile Scrum Foundation
 
 --------------------------------------------------
 
