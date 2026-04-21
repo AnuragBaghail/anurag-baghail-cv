@@ -1,6 +1,8 @@
 # anurag-baghail-cv
 # Anurag Baghail
 
+# Anurag Baghail
+
 Email: anurag.baghail@gmail.com
 Phone: +91 9755-149-559
 LinkedIn: https://linkedin.com/in/anuragbaghail
@@ -10,31 +12,174 @@ Portfolio: https://docs.google.com/document/d/1FxAwCObubEo4i7mtiB9KXZkCRn3LJ90Ej
 
 SUMMARY
 
-I have 8+ years of experience building and scaling B2B, B2C, GovTech, and enterprise SaaS products across regulated environments and start-ups.
+Business Analyst and Product professional with 8+ years of experience in B2B, B2C, GovTech, and enterprise SaaS products.
 
-- I am looking for leadership and managerial roles.
-- 20+ projects, 8+ years of experience in bridging business needs with and/or without IT solutions.
-- Expert in team leadership, Gen AI, stakeholder management, cross-team communication, team management, guidance/training, eliciting & interpreting complex requirements, documentation, presentations/meetings and process optimization.
-- Proven ability to prioritize initiatives to translate business goals into actionable strategies, driving successful project outcomes.
+- 20+ projects delivered across domains
+- Expertise in product strategy, Gen AI, stakeholder management, and requirement engineering
+- Strong track record in process optimization and scalable system design
+- Seeking leadership and product-focused roles
 
 --------------------------------------------------
 
 CORE SKILLS
 
-Business Analysis & Consulting:
+Business Analysis:
 Requirement elicitation, BRD, FRD, FRS, UAT, Functional Testing
 
 Project Leadership:
-Stakeholder management, backlog management, Agile & Waterfall delivery, cross-team collaboration
+Stakeholder management, Agile & Waterfall delivery, backlog management
 
-Domain Expertise:
-Government e-Governance, Pharma ERP/CRM, FinTech, Cloud-native solutions, E-learning apps
+Domains:
+e-Governance, Pharma ERP/CRM, FinTech, Cloud-native, E-learning
 
-Tools & Techniques:
-Jira, Confluence, Visio, Balsamiq, Figma, Tableau, AWS, OCI AI, UML, BPMN, Wireframes, User Stories
+Tools:
+Jira, Confluence, Figma, Balsamiq, Tableau, AWS, OCI AI, UML, BPMN
 
-Soft Skills:
-Leadership, Analytical problem-solving, Client communication, Training & Mentoring
+--------------------------------------------------
+
+WORK EXPERIENCE
+
+Business Analyst – Aurionpro Solutions (Jan 2025 – Present)
+- Working on Sampoorna Digital Sansad (Rajya Sabha Secretariat)
+- Managing requirement lifecycle, compliance workflows, and stakeholder coordination
+
+Senior Business Analyst – Luxsh Technologies (Nov 2023 – Dec 2024)
+- Built e-signature system (GBP 3000 annual savings)
+- Reduced approval cycles by 75%
+- Delivered 3MS (70% faster approvals)
+
+Business Analyst – Advantal Technologies (Jun 2022 – Jul 2023)
+- Delivered e-governance & fintech platforms
+- Reduced turnaround time by 30%
+
+Business Analyst – Eternal Web (May 2018 – Jun 2021)
+- Delivered ERP, CRM, and ecommerce systems globally
+
+Product Associate – Leap Learning (Dec 2014 – Oct 2016)
+- Built English learning app (1M+ downloads)
+
+--------------------------------------------------
+
+PROJECT EXPERIENCE (DETAILED)
+
+AURIONPRO SOLUTIONS
+
+- Sampoorna Digital Sansad (Rajya Sabha Secretariat)
+  Worked on requirement gathering, process optimization, FRS, use cases, and stakeholder collaboration across government departments.
+
+--------------------------------------------------
+
+LUXSH TECHNOLOGIES
+
+- 3MS (Marketing Material Management System)
+  Centralized pharma marketing approvals.
+  Result: 70% faster approvals, 100% elimination of duplicate/expired assets.
+
+- Custom CRM (IFS ERP Integration)
+  Digitized customer onboarding and e-sign flow.
+  Result: Reduced onboarding time from 15–20 days to 2–3 days.
+
+- MCS Process Enhancement (Manufacturing)
+  Optimized QA/QC and material movement.
+  Result: 97% reduction in cost, time, and manual effort.
+
+- E-signature System (B2B2C SaaS)
+  Cloud-based document signing platform.
+  Result:
+  - Saved GBP 3000 annually
+  - Reduced signing time from 1 week to 2 days
+  - Reduced paper usage (120 trees/year)
+
+- Custom ERP Solution (Pharma Manufacturing)
+  Designed end-to-end ERP covering procurement, production, audit, and sales.
+
+--------------------------------------------------
+
+ADVANTAL TECHNOLOGIES
+
+- Japanese MNC – e-Governance Platform (B2G2C)
+  Built citizen-government interface integrated with ICCC systems.
+
+- Indian FinTech Lending App (B2C)
+  Delivered mobile + admin panel for digital lending platform.
+
+- Gulf Investment App (B2C)
+  Built global investment tracking platform with real-time insights.
+
+- Thai ERP Implementation
+  Customized open-source ERP for operational efficiency.
+
+--------------------------------------------------
+
+ETERNAL WEB
+
+- British Client – Video Training Platform
+  Cloud-based corporate training solution.
+
+- Austrian Real Estate Platform
+  Built crawler + analytics dashboards (GA, GTM).
+
+- Japanese Middleware Solution
+  Connected ecommerce platform with inventory systems.
+
+- British E-learning Ecommerce Platform
+  Enabled booking, testing, and digital learning.
+
+- Canadian Rental Platform
+  Digitized offline rental services into ecommerce.
+
+- Indian Influencer Ecommerce Platform
+  Built cloud-based ecommerce solution.
+
+- US & UK Ecommerce Stores
+  Delivered multiple Magento-based ecommerce platforms.
+
+- Dairy Marketplace Search Optimization
+  Implemented location-based filtering system.
+
+- Music Streaming MVP App
+  Built app to detect and stream currently playing songs.
+
+- Irish Scheduling System
+  Designed user registration & scheduling module.
+
+- US Healthcare Compliance Project
+  Enhanced system for HIPAA compliance.
+
+- Indian ERP Transformation
+  Built cloud-native ERP for logistics, coal, paper industries.
+
+--------------------------------------------------
+
+LEAP LEARNING
+
+- English Learning Mobile App
+  1M+ downloads, 20K reviews (4.4 rating)
+  - Product design, analytics, feature development
+  - Tools: Flurry, Google Analytics
+
+--------------------------------------------------
+
+EDUCATION
+
+Bachelor of Engineering (Electronics & Communication)
+RGPV | 2006 – 2010
+
+--------------------------------------------------
+
+CERTIFICATIONS
+
+- Oracle OCI AI Foundations (2024)
+- AWS Cloud Practitioner (Expired)
+- API Security Architect
+- CBAP Introduction
+- PMBOK7 Project Management
+- Agile Data Management
+- Data Analytics & Visualization
+- Digital Transformation
+- CAPM
+- Agile Scrum Foundation
+
 
 --------------------------------------------------
 
